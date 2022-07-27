@@ -1,4 +1,4 @@
-[#](#) Magical Revolution CH.1 
+# Magical Revolution CH.1 
 ### Page 5
 これより語られるのはある王国の王女様まのお話
 
