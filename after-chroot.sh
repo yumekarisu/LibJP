@@ -92,7 +92,7 @@ echo What you want to install:\n 1. X11 \n 2. Wayland
 
 read n
 
-if [[ n = 1 ]]then;
+if [[ $n = 1 ]]then;
 	echo installing x11
 	pacman -Syu --needed $x11 $audio $graphics $fonts $browser \
 		$file $terminal $media $misc $polkit $japanese $gaming \
